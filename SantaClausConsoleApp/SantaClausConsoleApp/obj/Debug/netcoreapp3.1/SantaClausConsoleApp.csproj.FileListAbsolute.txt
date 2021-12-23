@@ -1,0 +1,13 @@
+D:\DDroiDD\Ddroidd-internship\SantaClausConsoleApp\SantaClausConsoleApp\bin\Debug\netcoreapp3.1\SantaClausConsoleApp.exe
+D:\DDroiDD\Ddroidd-internship\SantaClausConsoleApp\SantaClausConsoleApp\bin\Debug\netcoreapp3.1\SantaClausConsoleApp.deps.json
+D:\DDroiDD\Ddroidd-internship\SantaClausConsoleApp\SantaClausConsoleApp\bin\Debug\netcoreapp3.1\SantaClausConsoleApp.runtimeconfig.json
+D:\DDroiDD\Ddroidd-internship\SantaClausConsoleApp\SantaClausConsoleApp\bin\Debug\netcoreapp3.1\SantaClausConsoleApp.runtimeconfig.dev.json
+D:\DDroiDD\Ddroidd-internship\SantaClausConsoleApp\SantaClausConsoleApp\bin\Debug\netcoreapp3.1\SantaClausConsoleApp.dll
+D:\DDroiDD\Ddroidd-internship\SantaClausConsoleApp\SantaClausConsoleApp\bin\Debug\netcoreapp3.1\SantaClausConsoleApp.pdb
+D:\DDroiDD\Ddroidd-internship\SantaClausConsoleApp\SantaClausConsoleApp\obj\Debug\netcoreapp3.1\SantaClausConsoleApp.csprojAssemblyReference.cache
+D:\DDroiDD\Ddroidd-internship\SantaClausConsoleApp\SantaClausConsoleApp\obj\Debug\netcoreapp3.1\SantaClausConsoleApp.AssemblyInfoInputs.cache
+D:\DDroiDD\Ddroidd-internship\SantaClausConsoleApp\SantaClausConsoleApp\obj\Debug\netcoreapp3.1\SantaClausConsoleApp.AssemblyInfo.cs
+D:\DDroiDD\Ddroidd-internship\SantaClausConsoleApp\SantaClausConsoleApp\obj\Debug\netcoreapp3.1\SantaClausConsoleApp.csproj.CoreCompileInputs.cache
+D:\DDroiDD\Ddroidd-internship\SantaClausConsoleApp\SantaClausConsoleApp\obj\Debug\netcoreapp3.1\SantaClausConsoleApp.dll
+D:\DDroiDD\Ddroidd-internship\SantaClausConsoleApp\SantaClausConsoleApp\obj\Debug\netcoreapp3.1\SantaClausConsoleApp.pdb
+D:\DDroiDD\Ddroidd-internship\SantaClausConsoleApp\SantaClausConsoleApp\obj\Debug\netcoreapp3.1\SantaClausConsoleApp.genruntimeconfig.cache

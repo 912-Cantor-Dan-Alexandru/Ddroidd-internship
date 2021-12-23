@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cUUcZGC2VCx68Dm4WlmivnTHVOEXgxeQqgSFtr0BuZMjUwIs5Elo2ogm/WKnoNuX9qpWluyweOWW8QdIsl+6ag==",
+  "success": true,
+  "projectFilePath": "D:\\DDroiDD\\Ddroidd-internship\\SantaClausConsoleApp\\SantaClausConsoleApp\\SantaClausConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
