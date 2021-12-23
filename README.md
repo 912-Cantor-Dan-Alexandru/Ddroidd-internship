@@ -21,7 +21,7 @@ I have recreated the mock data from the first question, added it to the list of 
 I have printed the report on both the console and report.txt. 
 
 #### Question 5
-I have implemented the Singleton pattern on SantaClaus class and commented the arguments for using it in the corresponding function.
+I have implemented the Singleton pattern on SantaClaus class and commented the reasons for using it in the corresponding function.
 
 #### Question 5
 Created the logic part in the method createTravelItinerary() from SantaClaus class and after that iterated through the resulting dictionary for creating the text. I have printed it on both the screen and in the file itinerary.txt
