@@ -9,6 +9,9 @@ print the examples/write in the coresponding text file.
 #### Question 1
 I have created the mock data that was required, overrode
 the ToString() method and printed all the new objects;
+This is the Class diagram of the objects:
+![UML DIAGRAM](./SantaClausConsoleApp/SantaClausConsoleApp/Core/Ddroidd.jpeg)
+
 
 #### Question 2
 I have created the corresponding letter input files (letter1.txt, letter2.txt, letter3.txt).
